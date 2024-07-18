@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ninetyfoursk
+- 👋 Hi, I’m Shaakirah
 - 👀 I’m interested in ... learning how to create projects, build upon command line and network troubleshooting abilities, and strengthen my security analyst skills
 - 🌱 I’m currently learning ... Network protocols, Python, and C+
 - 💞️ I’m looking to collaborate on ... projects
