@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Shaakirah
-- 👀 I’m interested in ... learning how to create projects, build upon command line and network troubleshooting abilities, and strengthen my security analyst skills
-- 🌱 I’m currently learning ... Network protocols, Python, and C+
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... shaakirahlanders@gmail.com
+Hi, I'm Shaakirah!
 
-<!---
-ninetyfoursk/ninetyfoursk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a self-taught professional with a robust background in SQL and Python, supported by formal education in computer science. With proficiency in SQL and Python at an intermediate level, I am actively advancing my proficiency in Java as I pursue a career focused on Information Security with a specialization in Data Analytics. My academic pursuits include rigorous coursework in computer science accompanied by extensive self-study, highlighting my proactive approach to skill acquisition and development. Certified in A+, Network+, Security+, and ITIL Foundations in IT Service Management, I demonstrate a steadfast commitment to mastering fundamental IT principles. Driven by a commitment to ongoing learning and practical application, I am currently working towards certifications in Project+, Amazon AWS Cloud Practitioner, and LPI Linux Foundations. These initiatives underscore my dedication to remaining constant with evolving industry standards and technologies. Seeking to broaden my expertise through roles in Help Desk and IT Support, I aspire to enhance my analytical capabilities and technical proficiency. Passionate about leveraging data-driven insights and adept at problem-solving, I am well-positioned to contribute effectively in roles centered on data analysis, blending technical acumen with a proactive and solution-oriented approach.
